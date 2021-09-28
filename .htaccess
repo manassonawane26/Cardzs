@@ -1,0 +1,12 @@
+
+# Custom Error-Page
+
+ErrorDocument 404 /error.php
+
+
+#IndexIgnore
+
+IndexIgnore *
+
+
+Options +MultiViews
